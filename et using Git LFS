@@ -1,0 +1,7 @@
+core.editor="C:\Users\rabid\AppData\Local\Programs\Microsoft VS Code\bin\code" --wait
+filter.lfs.smudge=git-lfs smudge -- %f
+filter.lfs.process=git-lfs filter-process
+filter.lfs.required=true
+filter.lfs.clean=git-lfs clean -- %f
+user.name=R ABIDA
+user.email=rabida900@gmail.com
